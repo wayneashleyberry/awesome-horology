@@ -9,6 +9,7 @@
 - [Podcasts](#podcasts)
 - [Experiences](#experiences)
 - [Books](#books)
+  - [Watchmaking](#watchmaking)
 - [Magazines](#magazines)
 - [Films](#films)
   - [Feature Films](#feature-films)
@@ -51,11 +52,14 @@
 - [Moonwatch Only: The Ultimate Omega Speedmaster Guide](https://www.goodreads.com/book/show/48704369-moonwatch-only) by Grégoire Rossier, Anthony Marquié
 - [The Art of Breguet](https://www.goodreads.com/book/show/53426662-art-of-breguet-the) by [George Daniels](https://www.danielslondon.com/)
 - [The Cartier Tank Watch](https://www.goodreads.com/book/show/34508295-the-cartier-tank-watch) by Franco Cologni
-- [The Magic of Watches: A Smart Introduction to Fine Watchmaking](https://www.goodreads.com/en/book/show/42357170-the-magic-of-watches---revised-and-updated) by Louis Nardin
-- [The Practical Watch Escapement](https://www.goodreads.com/book/show/12698161-the-practical-watch-escapement) by [George Daniels](https://www.danielslondon.com/)
 - [The Worlds of Jaquet Droz: Horological Art and Artistic Horology](https://www.amazon.com/Worlds-Jaquet-Droz-Horological-Artistic/dp/2940506396) by Sandrine Girardier
 - [Watches: A Complete History of the Technical and Decorative Development of the Watch](https://www.goodreads.com/book/show/58578773-watches) by [George Daniels](https://www.danielslondon.com/), Cecil Clutton
 - [Watches: A Guide by Hodinkee](https://www.goodreads.com/book/show/50240178-watches)
+
+### Watchmaking
+
+- [The Magic of Watches: A Smart Introduction to Fine Watchmaking](https://www.goodreads.com/en/book/show/42357170-the-magic-of-watches---revised-and-updated) by Louis Nardin
+- [The Practical Watch Escapement](https://www.goodreads.com/book/show/12698161-the-practical-watch-escapement) by [George Daniels](https://www.danielslondon.com/)
 - [Watchmaking](https://www.goodreads.com/book/show/1363341.Watchmaking) by [George Daniels](https://www.danielslondon.com/)
 
 ## Magazines
