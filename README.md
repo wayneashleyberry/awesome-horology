@@ -7,6 +7,9 @@
 - [Websites](#websites)
 - [Magazines](#magazines)
 - [Books](#books)
+  - [General](#general)
+  - [Biographies](#biographies)
+  - [Brand Books](#brand-books)
   - [History](#history)
   - [Iconic Watches](#iconic-watches)
   - [Watchmaking](#watchmaking)
@@ -43,11 +46,18 @@
 ### General
 
 - [A Man and His Watch](https://www.goodreads.com/en/book/show/36361178-a-man-and-his-watch)
-- [All in Good Time: Reflections of a Watchmaker](https://www.goodreads.com/en/book/show/8845277-all-in-good-time)
-- [The Art of Breguet](https://www.goodreads.com/book/show/53426662-art-of-breguet-the) by [George Daniels](https://www.danielslondon.com/)
-- [The Worlds of Jaquet Droz: Horological Art and Artistic Horology](https://www.amazon.com/Worlds-Jaquet-Droz-Horological-Artistic/dp/2940506396) by Sandrine Girardier
 - [Watches: A Complete History of the Technical and Decorative Development of the Watch](https://www.goodreads.com/book/show/58578773-watches) by [George Daniels](https://www.danielslondon.com/), Cecil Clutton
 - [Watches: A Guide by Hodinkee](https://www.goodreads.com/book/show/50240178-watches)
+
+### Biographies
+
+- [All in Good Time: Reflections of a Watchmaker](https://www.goodreads.com/en/book/show/8845277-all-in-good-time)
+
+### Brand books
+
+- [Audemars Piguet 20th Century Complicated Wristwatches](https://www.hodinkee.com/articles/audemars-piguet-20th-century-complicated-wristwatches)
+- [The Art of Breguet](https://www.goodreads.com/book/show/53426662-art-of-breguet-the) by [George Daniels](https://www.danielslondon.com/)
+- [The Worlds of Jaquet Droz: Horological Art and Artistic Horology](https://www.amazon.com/Worlds-Jaquet-Droz-Horological-Artistic/dp/2940506396) by Sandrine Girardier
 
 ### History
 
