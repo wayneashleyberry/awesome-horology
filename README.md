@@ -58,11 +58,17 @@
 - [Audemars Piguet 20th Century Complicated Wristwatches](https://www.hodinkee.com/articles/audemars-piguet-20th-century-complicated-wristwatches)
 - [The Art of Breguet](https://www.goodreads.com/book/show/53426662-art-of-breguet-the) by [George Daniels](https://www.danielslondon.com/)
 - [The Worlds of Jaquet Droz: Horological Art and Artistic Horology](https://www.amazon.com/Worlds-Jaquet-Droz-Horological-Artistic/dp/2940506396) by Sandrine Girardier
+- [Patek Philippe: The Authorized Biography](https://www.goodreads.com/book/show/27882472-patek-philippe) by Nicholas Foulkes
+- [Vacheron Constantin: Artists of Time](https://www.goodreads.com/book/show/25489335-vacheron-constantin) by Franco Cologni
+- [Accutron: From the Space Age to the Digital Age](https://www.accutronwatch.com/products/0d043) by Jack Forster, Aaron Sigmond, Carl Gustav Magnusson (Foreword)
+- [F.P.JOURNE - Invenit et Fecit](https://watchprint.com/en/brands-that-make-it-happen/292-fpjourne-invenit-et-fecit.html) by By Jean-Pierre Grosz
 
 ### History
 
 - [About Time: A History of Civilization in Twelve Clocks](https://www.goodreads.com/en/book/show/55298389-about-time) by David Rooney
 - [Longitude: The True Story of a Lone Genius Who Solved the Greatest Scientific Problem of His Time](https://www.goodreads.com/book/show/4806.Longitude) by Dava Sobel, Neil Armstrong (Foreword)
+- [The Cartiers: The Untold Story of the Family Behind the Jewelry Empire](https://www.goodreads.com/en/book/show/43982449-the-cartiers) by Francesca Cartier Brickell
+- [God's Clockmaker](https://www.goodreads.com/book/show/2071784.God_s_Clockmaker) by John North
 
 ### Iconic Watches
 
