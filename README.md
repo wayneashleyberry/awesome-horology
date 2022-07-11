@@ -116,6 +116,7 @@
 - [Roger Smith Watches](https://www.youtube.com/user/rwsmithwatches)
 - [Teddy Baldassarre](https://www.youtube.com/c/TeddyBaldassarre)
 - [The Hour Glass](https://www.youtube.com/channel/UCrS1X1VVUgTPtejY0hqIx0w)
+- [The Urban Gentry](https://www.youtube.com/c/theurbangentry)
 - [Theo and Harris](https://www.youtube.com/channel/UCqhmd5fM8oJrJnahTxaMUUA)
 - [Time+Tide Watches](https://www.youtube.com/user/timetidewatches)
 - [WATCHES TV](https://www.youtube.com/user/thewatchestv)
