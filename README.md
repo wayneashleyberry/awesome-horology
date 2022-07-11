@@ -7,7 +7,8 @@
 - [Websites](#websites)
 - [Magazines](#magazines)
 - [Books](#books)
-  - [General](#general)
+  - [History](#history)
+  - [Iconic Watches](#iconic-watches)
   - [Watchmaking](#watchmaking)
 - [Podcasts](#podcasts)
 - [Video](#video)
@@ -42,15 +43,22 @@
 ### General
 
 - [A Man and His Watch](https://www.goodreads.com/en/book/show/36361178-a-man-and-his-watch)
-- [About Time: A History of Civilization in Twelve Clocks](https://www.goodreads.com/en/book/show/55298389-about-time) by David Rooney
 - [All in Good Time: Reflections of a Watchmaker](https://www.goodreads.com/en/book/show/8845277-all-in-good-time)
-- [Longitude: The True Story of a Lone Genius Who Solved the Greatest Scientific Problem of His Time](https://www.goodreads.com/book/show/4806.Longitude) by Dava Sobel, Neil Armstrong (Foreword)
-- [Moonwatch Only: The Ultimate Omega Speedmaster Guide](https://www.goodreads.com/book/show/48704369-moonwatch-only) by Grégoire Rossier, Anthony Marquié
 - [The Art of Breguet](https://www.goodreads.com/book/show/53426662-art-of-breguet-the) by [George Daniels](https://www.danielslondon.com/)
-- [The Cartier Tank Watch](https://www.goodreads.com/book/show/34508295-the-cartier-tank-watch) by Franco Cologni
 - [The Worlds of Jaquet Droz: Horological Art and Artistic Horology](https://www.amazon.com/Worlds-Jaquet-Droz-Horological-Artistic/dp/2940506396) by Sandrine Girardier
 - [Watches: A Complete History of the Technical and Decorative Development of the Watch](https://www.goodreads.com/book/show/58578773-watches) by [George Daniels](https://www.danielslondon.com/), Cecil Clutton
 - [Watches: A Guide by Hodinkee](https://www.goodreads.com/book/show/50240178-watches)
+
+### History
+
+- [About Time: A History of Civilization in Twelve Clocks](https://www.goodreads.com/en/book/show/55298389-about-time) by David Rooney
+- [Longitude: The True Story of a Lone Genius Who Solved the Greatest Scientific Problem of His Time](https://www.goodreads.com/book/show/4806.Longitude) by Dava Sobel, Neil Armstrong (Foreword)
+
+### Iconic Watches
+
+- [The Cartier Tank Watch](https://www.goodreads.com/book/show/34508295-the-cartier-tank-watch) by Franco Cologni
+- [Moonwatch Only: The Ultimate Omega Speedmaster Guide](https://www.goodreads.com/book/show/48704369-moonwatch-only) by Grégoire Rossier, Anthony Marquié
+- [Fifty Watches That Changed the World](https://www.goodreads.com/en/book/show/24905540-fifty-watches-that-changed-the-world) by Alex Newson
 
 ### Watchmaking
 
