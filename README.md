@@ -27,10 +27,19 @@
 ## YouTube Channels
 
 - [Bark and Jack](https://www.youtube.com/c/BarkandJack)
+- [Brandon Menancio](https://www.youtube.com/channel/UCmhdJg8p2s69_2dgnNmp-3w)
+- [Crown & Caliber](https://www.youtube.com/user/crownandcaliber)
 - [HODINKEE](https://www.youtube.com/c/hodinkee)
 - [Horological Society of New York](https://www.youtube.com/c/HorologicalSocietyofNewYork)
 - [IDGuy](https://www.youtube.com/channel/UCzf6rqsEBni5G2TSevD6F4A)
+- [Monochrome Watches](https://www.youtube.com/user/MonochromeWatches)
+- [Phillips Watches](https://www.youtube.com/channel/UC1rfjl5iFe0_LehYGtfH0vQ)
+- [Roger Smith Watches](https://www.youtube.com/user/rwsmithwatches)
 - [Teddy Baldassarre](https://www.youtube.com/c/TeddyBaldassarre)
+- [The Hour Glass](https://www.youtube.com/channel/UCrS1X1VVUgTPtejY0hqIx0w)
+- [Theo and Harris](https://www.youtube.com/channel/UCqhmd5fM8oJrJnahTxaMUUA)
+- [Time+Tide Watches](https://www.youtube.com/user/timetidewatches)
+- [WATCHES TV](https://www.youtube.com/user/thewatchestv)
 - [Wristwatch Revival](https://www.youtube.com/c/WristwatchRevival)
 
 ## Podcasts
