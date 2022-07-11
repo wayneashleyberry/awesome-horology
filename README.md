@@ -17,8 +17,8 @@
 - [Video](#video)
   - [Feature Films](#feature-films)
   - [Short Films](#short-films)
-  - [Lectures](#lectures)
   - [YouTube Channels](#youtube-channels)
+  - [Lectures](#lectures)
 - [Experiences](#experiences)
 - [Schools](#schools)
 - [Online Shops](#online-shops)
@@ -101,11 +101,6 @@
 - [THE SINGLE MEN - Masters of the Incredible and the Beautiful - A Film By Philip Selkirk](https://www.youtube.com/watch?v=thAKJnp0ntU&list=PLPhU2Tz1TddA9Frllryn5WRvDZih9EpqT)
 - [Walkthrough Famous German Watchmaker A. Lange & Söhne](https://www.youtube.com/watch?v=DGAsib-4mCk&list=PLPhU2Tz1TddA9Frllryn5WRvDZih9EpqT)
 
-### Lectures
-
-- [Spring Drive: A True Expression of Nature and Time, by Joseph Kirk](https://www.youtube.com/watch?v=R1T32GWdkew&list=PLPhU2Tz1TddA9Frllryn5WRvDZih9EpqT)
-- [The History of the Tourbillon, by Emmanuel Breguet and Jeffrey Kingston](https://www.youtube.com/watch?v=u3WI9woZcKQ&list=PLPhU2Tz1TddA9Frllryn5WRvDZih9EpqT)
-
 ### YouTube Channels
 
 - [Bark and Jack](https://www.youtube.com/c/BarkandJack)
@@ -123,6 +118,11 @@
 - [Time+Tide Watches](https://www.youtube.com/user/timetidewatches)
 - [WATCHES TV](https://www.youtube.com/user/thewatchestv)
 - [Wristwatch Revival](https://www.youtube.com/c/WristwatchRevival)
+
+### Lectures
+
+- [Spring Drive: A True Expression of Nature and Time, by Joseph Kirk](https://www.youtube.com/watch?v=R1T32GWdkew&list=PLPhU2Tz1TddA9Frllryn5WRvDZih9EpqT)
+- [The History of the Tourbillon, by Emmanuel Breguet and Jeffrey Kingston](https://www.youtube.com/watch?v=u3WI9woZcKQ&list=PLPhU2Tz1TddA9Frllryn5WRvDZih9EpqT)
 
 ## Experiences
 
