@@ -61,7 +61,7 @@
 - [Patek Philippe: The Authorized Biography](https://www.goodreads.com/book/show/27882472-patek-philippe) by Nicholas Foulkes
 - [Vacheron Constantin: Artists of Time](https://www.goodreads.com/book/show/25489335-vacheron-constantin) by Franco Cologni
 - [Accutron: From the Space Age to the Digital Age](https://www.accutronwatch.com/products/0d043) by Jack Forster, Aaron Sigmond, Carl Gustav Magnusson (Foreword)
-- [F.P.JOURNE - Invenit et Fecit](https://watchprint.com/en/brands-that-make-it-happen/292-fpjourne-invenit-et-fecit.html) by By Jean-Pierre Grosz
+- [F.P.JOURNE - Invenit et Fecit](https://watchprint.com/en/brands-that-make-it-happen/292-fpjourne-invenit-et-fecit.html) by Jean-Pierre Grosz
 
 ### History
 
