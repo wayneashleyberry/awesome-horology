@@ -29,6 +29,8 @@
 - [Monochrome Watches](https://monochrome-watches.com/)
 - [Revolution](https://revolutionwatch.com/)
 - [Worn & Wound](https://wornandwound.com/)
+- [Watches by SJX](https://watchesbysjx.com/)
+- [WatchUSeek Watch Forums](https://www.watchuseek.com/)
 
 ## Magazines
 
