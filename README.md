@@ -5,54 +5,40 @@
 **Table of Contents**
 
 - [Websites](#websites)
-- [YouTube Channels](#youtube-channels)
-- [Podcasts](#podcasts)
-- [Experiences](#experiences)
-- [Books](#books)
-  - [Watchmaking](#watchmaking)
 - [Magazines](#magazines)
-- [Films](#films)
+- [Books](#books)
+  - [General](#general)
+  - [Watchmaking](#watchmaking)
+- [Podcasts](#podcasts)
+- [Video](#video)
   - [Feature Films](#feature-films)
   - [Short Films](#short-films)
   - [Lectures](#lectures)
+  - [YouTube Channels](#youtube-channels)
+- [Experiences](#experiences)
+- [Online Shops](#online-shops)
 
 ## Websites
 
 - [HODINKEE](https://www.hodinkee.com/)
 - [Monochrome Watches](https://monochrome-watches.com/)
 - [Revolution](https://revolutionwatch.com/)
-- [WatchPrint](https://watchprint.com/)
 - [Worn & Wound](https://wornandwound.com/)
 
-## YouTube Channels
+## Magazines
 
-- [Bark and Jack](https://www.youtube.com/c/BarkandJack)
-- [Brandon Menancio](https://www.youtube.com/channel/UCmhdJg8p2s69_2dgnNmp-3w)
-- [Crown & Caliber](https://www.youtube.com/user/crownandcaliber)
-- [HODINKEE](https://www.youtube.com/c/hodinkee)
-- [Horological Society of New York](https://www.youtube.com/c/HorologicalSocietyofNewYork)
-- [IDGuy](https://www.youtube.com/channel/UCzf6rqsEBni5G2TSevD6F4A)
-- [Monochrome Watches](https://www.youtube.com/user/MonochromeWatches)
-- [Phillips Watches](https://www.youtube.com/channel/UC1rfjl5iFe0_LehYGtfH0vQ)
-- [Roger Smith Watches](https://www.youtube.com/user/rwsmithwatches)
-- [Teddy Baldassarre](https://www.youtube.com/c/TeddyBaldassarre)
-- [The Hour Glass](https://www.youtube.com/channel/UCrS1X1VVUgTPtejY0hqIx0w)
-- [Theo and Harris](https://www.youtube.com/channel/UCqhmd5fM8oJrJnahTxaMUUA)
-- [Time+Tide Watches](https://www.youtube.com/user/timetidewatches)
-- [WATCHES TV](https://www.youtube.com/user/thewatchestv)
-- [Wristwatch Revival](https://www.youtube.com/c/WristwatchRevival)
+- [HODINKEE](https://www.hodinkee.com/magazine) (Print)
+- [Oracle Time](https://oracleoftime.com/magazine/) (Digital, Print)
 
 ## Podcasts
 
-- [About Effing Time](https://abouteffingtime.net/password) — [YouTube](https://www.youtube.com/channel/UCqRdOESEo9GGB1zh4YW1iKw), [RSS](https://feeds.buzzsprout.com/2001228.rss)
 - [HODINKEE Radio](https://www.hodinkee.com/browse/hodinkee-radio)
 - [The Grey NATO](https://thegreynato.com/)
-
-## Experiences
-
-- [The Bremont Tour](https://www.bremont.com/products/the-bremont-tour)
+- [About Effing Time](https://abouteffingtime.net/password) — [YouTube](https://www.youtube.com/channel/UCqRdOESEo9GGB1zh4YW1iKw), [RSS](https://feeds.buzzsprout.com/2001228.rss)
 
 ## Books
+
+### General
 
 - [A Man and His Watch](https://www.goodreads.com/en/book/show/36361178-a-man-and-his-watch)
 - [About Time: A History of Civilization in Twelve Clocks](https://www.goodreads.com/en/book/show/55298389-about-time) by David Rooney
@@ -71,13 +57,7 @@
 - [The Practical Watch Escapement](https://www.goodreads.com/book/show/12698161-the-practical-watch-escapement) by [George Daniels](https://www.danielslondon.com/)
 - [Watchmaking](https://www.goodreads.com/book/show/1363341.Watchmaking) by [George Daniels](https://www.danielslondon.com/)
 
-## Magazines
-
-- [GMT](https://www.gmtmag.com/) (Digital)
-- [HODINKEE](https://www.hodinkee.com/magazine) (Print)
-- [Oracle Time](https://oracleoftime.com/magazine/) (Digital, Print)
-
-## Films
+## Video
 
 ### Feature Films
 
@@ -100,3 +80,30 @@
 
 - [Spring Drive: A True Expression of Nature and Time, by Joseph Kirk](https://www.youtube.com/watch?v=R1T32GWdkew&list=PLPhU2Tz1TddA9Frllryn5WRvDZih9EpqT)
 - [The History of the Tourbillon, by Emmanuel Breguet and Jeffrey Kingston](https://www.youtube.com/watch?v=u3WI9woZcKQ&list=PLPhU2Tz1TddA9Frllryn5WRvDZih9EpqT)
+
+### YouTube Channels
+
+- [Bark and Jack](https://www.youtube.com/c/BarkandJack)
+- [Brandon Menancio](https://www.youtube.com/channel/UCmhdJg8p2s69_2dgnNmp-3w)
+- [Crown & Caliber](https://www.youtube.com/user/crownandcaliber)
+- [HODINKEE](https://www.youtube.com/c/hodinkee)
+- [Horological Society of New York](https://www.youtube.com/c/HorologicalSocietyofNewYork)
+- [IDGuy](https://www.youtube.com/channel/UCzf6rqsEBni5G2TSevD6F4A)
+- [Monochrome Watches](https://www.youtube.com/user/MonochromeWatches)
+- [Phillips Watches](https://www.youtube.com/channel/UC1rfjl5iFe0_LehYGtfH0vQ)
+- [Roger Smith Watches](https://www.youtube.com/user/rwsmithwatches)
+- [Teddy Baldassarre](https://www.youtube.com/c/TeddyBaldassarre)
+- [The Hour Glass](https://www.youtube.com/channel/UCrS1X1VVUgTPtejY0hqIx0w)
+- [Theo and Harris](https://www.youtube.com/channel/UCqhmd5fM8oJrJnahTxaMUUA)
+- [Time+Tide Watches](https://www.youtube.com/user/timetidewatches)
+- [WATCHES TV](https://www.youtube.com/user/thewatchestv)
+- [Wristwatch Revival](https://www.youtube.com/c/WristwatchRevival)
+
+## Experiences
+
+- [The Bremont Tour](https://www.bremont.com/products/the-bremont-tour)
+
+## Online Shops
+
+- [WatchPrint](https://watchprint.com/en/)
+- [HODINKEE Shop](https://shop.hodinkee.com/)
