@@ -16,6 +16,7 @@
   - [Lectures](#lectures)
   - [YouTube Channels](#youtube-channels)
 - [Experiences](#experiences)
+- [Schools](#schools)
 - [Online Shops](#online-shops)
 
 ## Websites
@@ -102,6 +103,11 @@
 ## Experiences
 
 - [The Bremont Tour](https://www.bremont.com/products/the-bremont-tour)
+
+## Schools
+
+- [British School of Watchmaking](https://www.britishschoolofwatchmaking.co.uk/)
+- [British Horological Institute](https://bhi.co.uk/)
 
 ## Online Shops
 
