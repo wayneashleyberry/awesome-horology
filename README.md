@@ -1,9 +1,36 @@
 # Awesome Horology
 
+> _"Horology is the study of the measurement of time. Clocks, watches, clockwork, sundials, hourglasses, clepsydras, timers, time recorders, marine chronometers, and atomic clocks are all examples of instruments used to measure time. In current usage, horology refers mainly to the study of mechanical time-keeping devices, while chronometry more broadly includes electronic devices that have largely supplanted mechanical clocks for the best accuracy and precision in time-keeping." — [Wikipedia](https://en.wikipedia.org/wiki/Horology)_
+
+**Table of Contents**
+
+- [Websites](#websites)
+- [YouTube Channels](#youtube-channels)
+- [Podcasts](#podcasts)
+- [Books](#books)
+  - [Watchmaking](#watchmaking)
+  - [Specific watches](#specific-watches)
+- [Magazines](#magazines)
+- [Films](#films)
+  - [Feature Films](#feature-films)
+  - [Short Films](#short-films)
+  - [Lectures](#lectures)
+
 ## Websites
 
 - [HODINKEE](https://www.hodinkee.com/)
 - [Monochrome Watches](https://monochrome-watches.com/)
+- [Worn & Wound](https://wornandwound.com/)
+- [Revolution](https://revolutionwatch.com/)
+
+## YouTube Channels
+
+- [HODINKEE](https://www.youtube.com/c/hodinkee)
+- [Bark and Jack](https://www.youtube.com/c/BarkandJack)
+- [Teddy Baldassarre](https://www.youtube.com/c/TeddyBaldassarre)
+- [IDGuy](https://www.youtube.com/channel/UCzf6rqsEBni5G2TSevD6F4A)
+- [Wristwatch Revival](https://www.youtube.com/c/WristwatchRevival)
+- [Horological Society of New York](https://www.youtube.com/c/HorologicalSocietyofNewYork)
 
 ## Podcasts
 
@@ -15,16 +42,22 @@
 
 - [A Man and His Watch](https://www.goodreads.com/en/book/show/36361178-a-man-and-his-watch)
 
-### Specific watches
-
-- [The Cartier Tank Watch](https://www.goodreads.com/book/show/34508295-the-cartier-tank-watch) by Franco Cologni
-- [Moonwatch Only: The Ultimate Omega Speedmaster Guide](https://www.goodreads.com/book/show/48704369-moonwatch-only) by Grégoire Rossier, Anthony Marquié
-
 ### Watchmaking
 
 - [Watchmaking](https://www.goodreads.com/book/show/1363341.Watchmaking) by [George Daniels](https://www.danielslondon.com/)
 - [The Practical Watch Escapement](https://www.goodreads.com/book/show/12698161-the-practical-watch-escapement) by [George Daniels](https://www.danielslondon.com/)
 - [The Magic of Watches: A Smart Introduction to Fine Watchmaking](https://www.goodreads.com/en/book/show/42357170-the-magic-of-watches---revised-and-updated) by Louis Nardin
+
+### Specific watches
+
+- [The Cartier Tank Watch](https://www.goodreads.com/book/show/34508295-the-cartier-tank-watch) by Franco Cologni
+- [Moonwatch Only: The Ultimate Omega Speedmaster Guide](https://www.goodreads.com/book/show/48704369-moonwatch-only) by Grégoire Rossier, Anthony Marquié
+
+## Magazines
+
+- [HODINKEE](https://www.hodinkee.com/magazine) (Print)
+- [Oracle Time](https://oracleoftime.com/magazine/) (Digital, Print)
+- [GMT](https://www.gmtmag.com/) (Digital)
 
 ## Films
 
@@ -49,12 +82,3 @@
 
 - [Spring Drive: A True Expression of Nature and Time, by Joseph Kirk](https://www.youtube.com/watch?v=R1T32GWdkew&list=PLPhU2Tz1TddA9Frllryn5WRvDZih9EpqT)
 - [The History of the Tourbillon, by Emmanuel Breguet and Jeffrey Kingston](https://www.youtube.com/watch?v=u3WI9woZcKQ&list=PLPhU2Tz1TddA9Frllryn5WRvDZih9EpqT)
-
-## YouTube Channels
-
-- [HODINKEE](https://www.youtube.com/c/hodinkee)
-- [Bark and Jack](https://www.youtube.com/c/BarkandJack)
-- [Teddy Baldassarre](https://www.youtube.com/c/TeddyBaldassarre)
-- [IDGuy](https://www.youtube.com/channel/UCzf6rqsEBni5G2TSevD6F4A)
-- [Wristwatch Revival](https://www.youtube.com/c/WristwatchRevival)
-- [Horological Society of New York](https://www.youtube.com/c/HorologicalSocietyofNewYork)
