@@ -108,6 +108,7 @@
 - [Bark and Jack](https://www.youtube.com/c/BarkandJack)
 - [Brandon Menancio](https://www.youtube.com/channel/UCmhdJg8p2s69_2dgnNmp-3w)
 - [Crown & Caliber](https://www.youtube.com/user/crownandcaliber)
+- [Fratello](https://www.youtube.com/c/FratelloMagazine)
 - [HODINKEE](https://www.youtube.com/c/hodinkee)
 - [Horological Society of New York](https://www.youtube.com/c/HorologicalSocietyofNewYork)
 - [IDGuy](https://www.youtube.com/channel/UCzf6rqsEBni5G2TSevD6F4A)
